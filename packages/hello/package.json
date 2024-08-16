@@ -1,0 +1,28 @@
+{
+  "name": "@widejs/hello",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "inlym <inlym@qq.com>",
+  "homepage": "https://github.com/inlym/widejs#readme",
+  "license": "MIT",
+  "main": "lib/hello.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "build"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inlym/widejs.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@widejs/hello.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/inlym/widejs/issues"
+  }
+}

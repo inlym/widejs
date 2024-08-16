@@ -1,0 +1,25 @@
+{
+  "name": "widejs",
+  "version": "1.0.0",
+  "description": "Wide.js Project",
+  "main": "index.js",
+  "scripts": {
+    "lerna-init": "lerna init",
+    "lerna-create": "lerna create",
+    "lerna-publish": "lerna publish",
+    "build": "turbo run build"
+  },
+  "packageManager": "pnpm@9.7.0",
+  "keywords": [
+    "inlym",
+    "widejs"
+  ],
+  "author": "inlym",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.3.0",
+    "lerna": "^8.1.8",
+    "turbo": "^2.0.14",
+    "typescript": "^5.5.4"
+  }
+}
