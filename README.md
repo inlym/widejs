@@ -1,3 +1,3 @@
 # widejs
 
-Wide.js Project
+Wide.js Project - wide JavaScript
